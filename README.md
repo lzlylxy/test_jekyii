@@ -1,2 +1,2 @@
-# test_jekyii
-test jekyii
+# test_jekyll
+test jekyll
